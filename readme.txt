@@ -2,8 +2,8 @@
 Contributors: andreiigna
 Tags: widget, visibility, rules, roles, hide, if, show, display
 Requires at least: 4
-Tested up to: 5.4
-Requires PHP: 5.4
+Tested up to: 5.6
+Requires PHP: 5.6
 Stable tag: trunk
 License: GPL-3.0-or-later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
