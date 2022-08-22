@@ -24,7 +24,7 @@
         "source": "https://github.com/LayeredStudio/if-widget"
     },
     "require": {
-        "composer/installers": "~1.5"
+        "composer/installers": "~2.2"
     },
     "autoload": {
         "psr-4": {
